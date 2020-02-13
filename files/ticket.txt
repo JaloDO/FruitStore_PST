@@ -1,0 +1,3 @@
+Produto: kiwi	Precio: 1,5€	Cantidad: 3Kg	Subtotal: 4,5€
+Produto: prunus	Precio: 3€	Cantidad: 3Kg	Subtotal: 9€
+Importe Total: 13,5€

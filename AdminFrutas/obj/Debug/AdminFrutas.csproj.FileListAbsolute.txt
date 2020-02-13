@@ -1,0 +1,30 @@
+c:\users\david\documents\visual studio 2015\Projects\AdminFrutas\AdminFrutas\bin\Debug\AdminFrutas.exe.config
+c:\users\david\documents\visual studio 2015\Projects\AdminFrutas\AdminFrutas\bin\Debug\AdminFrutas.exe
+c:\users\david\documents\visual studio 2015\Projects\AdminFrutas\AdminFrutas\bin\Debug\AdminFrutas.pdb
+c:\users\david\documents\visual studio 2015\Projects\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.Form1.resources
+c:\users\david\documents\visual studio 2015\Projects\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.exe
+c:\users\david\documents\visual studio 2015\Projects\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\tpvFrutas_v1\AdminFrutas\bin\Debug\AdminFrutas.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\tpvFrutas_v1\AdminFrutas\obj\Debug\AdminFrutas.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\tpvFrutas_v1\AdminFrutas\obj\Debug\AdminFrutas.pdb
+C:\Proyectos\AdminFrutas\AdminFrutas\bin\Debug\AdminFrutas.exe.config
+C:\Proyectos\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.exe
+C:\Proyectos\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.pdb
+C:\Proyectos\AdminFrutas\AdminFrutas\bin\Debug\AdminFrutas.exe
+C:\Proyectos\AdminFrutas\AdminFrutas\bin\Debug\AdminFrutas.pdb
+C:\Proyectos\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.csprojResolveAssemblyReference.cache
+C:\Proyectos\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.Form1.resources
+C:\Proyectos\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.Properties.Resources.resources
+C:\Proyectos\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.csproj.GenerateResource.Cache
+C:\Users\jaliy\Downloads\AdminFrutas\AdminFrutas\bin\Debug\AdminFrutas.exe.config
+C:\Users\jaliy\Downloads\AdminFrutas\AdminFrutas\bin\Debug\AdminFrutas.exe
+C:\Users\jaliy\Downloads\AdminFrutas\AdminFrutas\bin\Debug\AdminFrutas.pdb
+C:\Users\jaliy\Downloads\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.csprojAssemblyReference.cache
+C:\Users\jaliy\Downloads\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.Form1.resources
+C:\Users\jaliy\Downloads\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.Properties.Resources.resources
+C:\Users\jaliy\Downloads\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.csproj.GenerateResource.cache
+C:\Users\jaliy\Downloads\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.exe
+C:\Users\jaliy\Downloads\AdminFrutas\AdminFrutas\obj\Debug\AdminFrutas.pdb

@@ -1,0 +1,16 @@
+﻿chirimoya:1,25
+ciruela:2,75
+fresa:3,25
+kiwi:1,5
+mandarina:2,75
+melocoton:3,25
+melon:1,5
+naranja:1
+nectarina:3
+papaya:1
+peras:2
+piña:3
+platanos:2
+pomelos:2
+prunus:3
+uvas:2
